@@ -1,0 +1,6 @@
+C:\Users\charumathi.gunasekar\source\repos\TowerOfHanoie\TowerOfHanoie\obj\Debug\TowerOfHanoie.csprojAssemblyReference.cache
+C:\Users\charumathi.gunasekar\source\repos\TowerOfHanoie\TowerOfHanoie\bin\Debug\TowerOfHanoie.exe.config
+C:\Users\charumathi.gunasekar\source\repos\TowerOfHanoie\TowerOfHanoie\bin\Debug\TowerOfHanoie.exe
+C:\Users\charumathi.gunasekar\source\repos\TowerOfHanoie\TowerOfHanoie\bin\Debug\TowerOfHanoie.pdb
+C:\Users\charumathi.gunasekar\source\repos\TowerOfHanoie\TowerOfHanoie\obj\Debug\TowerOfHanoie.exe
+C:\Users\charumathi.gunasekar\source\repos\TowerOfHanoie\TowerOfHanoie\obj\Debug\TowerOfHanoie.pdb
